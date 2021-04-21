@@ -1,2 +1,2 @@
 # horiseon-homepage
-Information on social services
+Information on search engine optimization, online reputation management, and social media marketing
