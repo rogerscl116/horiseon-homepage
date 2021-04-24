@@ -23,4 +23,4 @@ Refactor code on Horiseon webpage so that it meets accessibility standards and i
 
 
 
-Created by *Charity Rogers*gi
+*Created by Charity Rogers*
