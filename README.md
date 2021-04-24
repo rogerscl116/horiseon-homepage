@@ -11,14 +11,16 @@ Refactor code on Horiseon webpage so that it meets accessibility standards and i
 
 ## Semantic Elements
 
-###Header
+### Header
 ![Horiseon Header Element](./assets/screenshots/header-element.png)
-###Main
+### Main
 ![Horiseon Main Element](./assets/screenshots/main-element.png)
-###Aside
+### Aside
 ![Horiseon Aside Element](./assets/screenshots/aside-element.png)
-###Footer
+### Footer
 ![Horiseon Footer Element](./assets/screenshots/footer-element.png)
+
+
 
 
 Created by *Charity Rogers*
