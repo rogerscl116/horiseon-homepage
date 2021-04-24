@@ -9,8 +9,16 @@ Refactor code on Horiseon webpage so that it meets accessibility standards and i
 - URL of deployed application: [https://rogerscl116.github.io/horiseon-homepage](https://rogerscl116.github.io/horiseon-homepage)   
 - URL of GitHub repository: [https://github.com/rogerscl116/horiseon-homepage](https://github.com/rogerscl116/horiseon-homepage)
 
-## Screenshot
+## Semantic Elements
 
-![Horiseon Social Solution Services](./assets/screenshots/horiseon-homepage.png)
+###Header
+![Horiseon Header Element](./assets/screenshots/header-element.png)
+###Main
+![Horiseon Main Element](./assets/screenshots/main-element.png)
+###Aside
+![Horiseon Aside Element](./assets/screenshots/aside-element.png)
+###Footer
+![Horiseon Footer Element](./assets/screenshots/footer-element.png)
+
 
 Created by *Charity Rogers*
