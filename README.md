@@ -6,8 +6,8 @@ Refactor code on Horiseon webpage so that it meets accessibility standards and i
 
 ## Review
 
-- URL of deployed application: [https://rogerscl116.github.io/horiseon-homepage/](https://rogerscl116.github.io/horiseon-homepage)   
-- URL of GitHub repository: [https://github.com/rogerscl116/horiseon-homepage.git](https://github.com/rogerscl116/horiseon-homepage)
+- URL of deployed application: [https://rogerscl116.github.io/horiseon-homepage](https://rogerscl116.github.io/horiseon-homepage)   
+- URL of GitHub repository: [https://github.com/rogerscl116/horiseon-homepage](https://github.com/rogerscl116/horiseon-homepage)
 
 ## Screenshot
 
