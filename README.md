@@ -1,4 +1,4 @@
-# Refactor Challenge
+# Code Refactor Challenge
 
 ## Objective
 
