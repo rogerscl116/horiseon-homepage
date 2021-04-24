@@ -11,13 +11,13 @@ Refactor code on Horiseon webpage so that it meets accessibility standards and i
 
 ## Semantic Elements
 
-### Header
+1. Header
 ![Horiseon Header Element](./assets/screenshots/header-element.png)
-### Main
+2. Main
 ![Horiseon Main Element](./assets/screenshots/main-element.png)
-### Aside
+3. Aside
 ![Horiseon Aside Element](./assets/screenshots/aside-element.png)
-### Footer
+4. Footer
 ![Horiseon Footer Element](./assets/screenshots/footer-element.png)
 
 
