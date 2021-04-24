@@ -6,11 +6,11 @@ Refactor code on Horiseon webpage so that it meets accessibility standards and i
 
 ## Review
 
-- URL of deployed application: [URL of deployed application](https://rogerscl116.github.io/horiseon-homepage/)   
-- URL of GitHub repository: [URL of GitHub repository](https://github.com/rogerscl116/horiseon-homepage.git)
+- URL of deployed application: [https://rogerscl116.github.io/horiseon-homepage/](https://rogerscl116.github.io/horiseon-homepage/)   
+- URL of GitHub repository: [https://github.com/rogerscl116/horiseon-homepage.git](https://github.com/rogerscl116/horiseon-homepage.git)
 
 ## Screenshot
 
-![Horiseon Social Solution Services](/assets/screenshots/horiseon-homepage)
+![Horiseon Social Solution Services](./assets/screenshots/horiseon-homepage)
 
 Created by Charity Rogers
