@@ -2,7 +2,7 @@
 
 ## Objective
 
-Refactor code on Horiseon webpage so that it meets accessibility standards and is optimized for search engines. Make sure all links are functioning properly. Clean up and consolidate CSS selectors and properties. Organize structure of HTML by adding semantic elements and include comments before each element or section of the page.
+Refactor code on Horiseon webpage so that it meets accessibility standards and it is optimized for search engines. Make sure all links are functioning properly. Clean up and consolidate CSS selectors and properties. Organize structure of HTML by adding semantic elements and include comments before each element or section of the page.
 
 ## Review
 
