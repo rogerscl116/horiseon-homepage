@@ -13,4 +13,4 @@ Refactor code on Horiseon webpage so that it meets accessibility standards and i
 
 ![Horiseon Social Solution Services](./assets/screenshots/horiseon-homepage.png)
 
-Created by Charity Rogers
+Created by *Charity Rogers*
