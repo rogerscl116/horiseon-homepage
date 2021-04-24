@@ -67,8 +67,8 @@ p {
     margin-left: 20px;
 }
 
-/* combined selectors into one rule and moved above benefits selector */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+/* combined classes and moved above benefits selector */
+.main-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -77,12 +77,12 @@ p {
     color: #ffffff;
 }
 
-/* combined selectors into one rule */
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+/* combined classes into one class */
+.main-content img {
     max-height: 200px;
 }
-/* combined selectors into one rule */
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+/* combined classes into one class */
+.main-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
